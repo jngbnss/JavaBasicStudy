@@ -8,8 +8,10 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "set시작"
+git commit -m "해쉬 충돌"
 git push
+
+10/10 4:11 해쉬충돌
 
 
 
