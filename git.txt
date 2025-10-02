@@ -8,10 +8,13 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "해쉬 충돌"
+git commit -m "2:19해쉬 완료"
 git push
 
-10/10 4:11 해쉬충돌
+10/01 4:11 해쉬충돌
+10/02 1:54 해쉬 충돌하러 가보자
+10/02 2:04 어라 별게 없네?
+강의 빨리보고 넘어갈까?
 
 
 
