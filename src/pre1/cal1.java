@@ -27,6 +27,8 @@ public class cal1 {
         }
 
         System.out.println("ret = " + ret);
+        // 여기 분석하고 예외하면 되나
+        // 일단 읽는게 중요할듯
     }
 }
 
