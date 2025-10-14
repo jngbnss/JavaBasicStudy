@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "스캐너 문제풀이 2부터 진행하기"
+git commit -m "plus logic 완료"
 git push
 
 10/01 4:11 해쉬충돌
