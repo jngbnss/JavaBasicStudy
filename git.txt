@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "2:19해쉬 완료"
+git commit -m "스캐너 문제풀이 2부터 진행하기"
 git push
 
 10/01 4:11 해쉬충돌
@@ -16,5 +16,7 @@ git push
 10/02 2:04 어라 별게 없네?
 강의 빨리보고 넘어갈까?
 
-
-
+10/14 11:48AM 메가커피
+자바 입문 배열이랑 입력 진행해보자
+1:07
+스캐너 문제풀이 2부터 진행하기
