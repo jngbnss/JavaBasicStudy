@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "10/15 예외처리 시작"
+git commit -m "10/15 예외처리1 이론 완료"
 git push
 
 10/01 4:11 해쉬충돌
