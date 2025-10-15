@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "plus logic 완료"
+git commit -m "10/15 예외처리 시작"
 git push
 
 10/01 4:11 해쉬충돌
@@ -20,3 +20,5 @@ git push
 자바 입문 배열이랑 입력 진행해보자
 1:07
 스캐너 문제풀이 2부터 진행하기
+
+10/15 예외처리 시작
