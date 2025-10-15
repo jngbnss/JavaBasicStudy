@@ -13,6 +13,7 @@ public class BaseballGame {
 
     private void generateAnswer() {
         List<Integer> numbers = new ArrayList<>();
+        // 이거 0도 포함하는거아냐?
         for(int i=0;i<10;i++){
             numbers.add(i);
         }
