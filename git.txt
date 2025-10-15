@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "자바의 정석 문제풀이 및 계산기에 예외 붙임"
+git commit -m "야구게임 완료 자료구조 공부"
 git push
 
 10/01 4:11 해쉬충돌
