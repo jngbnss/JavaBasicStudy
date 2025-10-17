@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "편의점 "
+git commit -m "패치"
 git push
 
 10/01 4:11 해쉬충돌
@@ -22,5 +22,3 @@ git push
 스캐너 문제풀이 2부터 진행하기
 
 10/15 예외처리 시작
-
-10/17 7:03  로그인 아 막 꼬인다
