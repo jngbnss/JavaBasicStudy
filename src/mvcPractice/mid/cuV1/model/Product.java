@@ -1,4 +1,4 @@
-package mvcPractice.mid.cu.model;
+package mvcPractice.mid.cuV1.model;
 
 public class Product {
     private String name;
@@ -19,22 +19,24 @@ public class Product {
         return price;
     }
 
-    public int getStock() {
-        return stock;
-    }
-
-
-
     public void setPrice(int price) {
         this.price = price;
+    }
+
+    public int getStock() {
+        return stock;
     }
 
     public void setStock(int stock) {
         this.stock = stock;
     }
 
+    public void reduceStock(int quantity){
+        this.stock -= quantity;
+    }
+
     @Override
     public String toString() {
-        return name+" - "+price+"원 (재고 : "+stock+")";
+        return name+" - "+price +"원 (재고:"+stock+")";
     }
 }

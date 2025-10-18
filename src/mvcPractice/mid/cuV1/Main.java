@@ -1,10 +1,9 @@
-package mvcPractice.mid.cu;
+package mvcPractice.mid.cuV1;
 
-import mvcPractice.mid.cu.controller.StoreController;
+import mvcPractice.mid.cuV1.controller.StoreController;
 
 public class Main {
     public static void main(String[] args) {
         new StoreController().run();
-
     }
 }
