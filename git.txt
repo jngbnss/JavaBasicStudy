@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "feat:java-start-Scanner-문제와 풀이2  "
+git commit -m "feat:java-start-Scanner-문제와 풀이3  "
 git push
 
 
