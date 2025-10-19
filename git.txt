@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "패치"
+git commit -m "Add solutions: 2979 주차 요금, 10988 팰린드롬, 1159 농구 경기"
 git push
 
 10/01 4:11 해쉬충돌
