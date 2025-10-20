@@ -31,6 +31,10 @@ public class Student {
         return registeredCourses;
     }
 
+    public void addCourse(Course course){
+        registeredCourses.add(course);
+    }
+
     public void removeCourse(Course course){
         registeredCourses.remove(course);
     }
