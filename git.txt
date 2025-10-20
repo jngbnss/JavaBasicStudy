@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "feat: Object 다형성"
+git commit -m "feat: Object 배열, toString()"
 git push
 
 feat: courseRegistrain Main
