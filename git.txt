@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "feat: EnrollmentController  "
+git commit -m "feat: courseRegistrain Main  "
 git push
 
 
