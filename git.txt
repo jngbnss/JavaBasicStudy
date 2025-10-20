@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "feat: 수강신청 학생 및 수강과목 모델  "
+git commit -m "feat: 학생 및 수업 리포지터리  "
 git push
 
 
