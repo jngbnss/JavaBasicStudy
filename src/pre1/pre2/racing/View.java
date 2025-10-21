@@ -27,7 +27,7 @@ public class View {
     public void callWinner(String winners){
         // 아니면 아예 세팅해서 넘겨버리지 뭐
         // pobi, jun 이렇게
-        System.out.println("최종 우승자 : ");
+        System.out.println("최종 우승자 : "+winners);
         //뷰단에도 적절하게 들어가는게 맞는것같은데
     }
 }
