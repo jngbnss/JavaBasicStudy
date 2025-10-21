@@ -32,6 +32,6 @@ public class BaseballController {
  * 예외처리
  * 정답확인
  * 힌트확인
- * 다시시작하시
+ * 다시시작하기
  *
  */

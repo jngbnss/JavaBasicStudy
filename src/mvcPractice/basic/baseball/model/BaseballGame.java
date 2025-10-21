@@ -14,7 +14,9 @@ public class BaseballGame {
     private void generateAnswer() {
         List<Integer> numbers = new ArrayList<>();
         // 이거 0도 포함하는거아냐?
-        for(int i=0;i<10;i++){
+        // 여기는 1로 수정하는게 맞아
+        //for(int i=0;i<10;i++){
+        for(int i=1;i<10;i++){
             numbers.add(i);
         }
         Collections.shuffle(numbers);

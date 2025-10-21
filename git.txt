@@ -8,11 +8,12 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "docs:숫자야구 요구사항 명세서"
+git commit -m "feat: 숫자야구 practice model, dto"
 git push
 
 feat: courseRegistrain Main
 feat: Object 배열, toString()
+docs:숫자야구 요구사항 명세서
 
 | 타입            | 의미                    |
 | ------------- | --------------------- |
