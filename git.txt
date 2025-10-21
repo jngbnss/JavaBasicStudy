@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "feat:main 입출력 초안 작성완료"
+git commit -m "feat:model 초안설정 완료 이름과 점수 해쉬맵으로 설정"
 git push
 
 feat: courseRegistrain Main
