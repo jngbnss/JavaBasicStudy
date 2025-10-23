@@ -1,6 +1,4 @@
-package scanner.ex;
-
-import java.util.Scanner;
+package javaStart.Ch8scanner.ex;
 
 public class ChangeVarEx {
     public static void main(String[] args) {

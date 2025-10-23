@@ -1,4 +1,4 @@
-package scanner.ex;
+package javaStart.Ch8scanner.ex;
 
 import java.util.Scanner;
 
