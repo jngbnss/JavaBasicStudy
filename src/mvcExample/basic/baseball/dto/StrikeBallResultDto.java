@@ -1,12 +1,11 @@
-package mvcPractice.basic.baseball.dto;
+package mvcExample.basic.baseball.dto;
 public class StrikeBallResultDto {
     private final int strike;
     private final int ball;
-    private final int cnt;
-    public StrikeBallResultDto(int strike, int ball,int cnt) {
+    private int cnt;
+    public StrikeBallResultDto(int strike, int ball) {
         this.strike = strike;
         this.ball = ball;
-        this.cnt = cnt;
     }
 
     public int getStrike() {
@@ -16,8 +15,6 @@ public class StrikeBallResultDto {
     public int getBall() {
         return ball;
     }
-    //여기에 게터가 필요한가?
-
 
     @Override
     public String toString() {
