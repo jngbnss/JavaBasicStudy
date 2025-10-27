@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "feat: 자바 입문 2차원 배열  타이핑 완료 "
+git commit -m "feat: 자바 입문 메서드 완료 "
 git push
 
 feat: courseRegistrain Main
