@@ -8,8 +8,11 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "feat: java mid1 - section2 object class "
+git commit -m "feat: java basic1 - section2 "
 git push
+
+한턴쉬고
+불변객체하자
 
 feat: courseRegistrain Main
 feat: Object 배열, toString()
