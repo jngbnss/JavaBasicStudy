@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "feat: 숫자야구 "
+git commit -m "feat: java mid1 - section2 object class "
 git push
 
 feat: courseRegistrain Main
