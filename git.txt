@@ -11,7 +11,7 @@ git pull origin main
 
 
 git add .
-git commit -m "feat: java mid1 - wrapper system"
+git commit -m "feat: 문제풀기까지 완료 이제 enum"
 git push
 
 한턴쉬고
