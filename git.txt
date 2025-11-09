@@ -11,7 +11,7 @@ git pull origin main
 
 
 git add .
-git commit -m "feat: java mid1 - section3 immutable "
+git commit -m "feat: java mid1 - Enum의 필요성"
 git push
 
 한턴쉬고
