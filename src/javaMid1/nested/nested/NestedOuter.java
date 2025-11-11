@@ -1,10 +1,10 @@
 package javaMid1.nested.nested;
 
 public class NestedOuter {
-    private static int outClassValue;
+    private static int outClassValue = 3;
     private int outInstanceValue = 2;
 
-    static class nested{
+    static class Nested {
         private int nestedInstanceValue = 1;
         public void print(){
             //자신의 멤버에 접근
