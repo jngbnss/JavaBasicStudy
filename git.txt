@@ -11,7 +11,7 @@ git pull
 
 
 git add .
-git commit -m "feat: 노트북 로컬 변경사항 저장"
+git commit -m "feat: 내부클래스"
 git push
 
 한턴쉬고
