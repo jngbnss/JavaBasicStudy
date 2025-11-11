@@ -5,13 +5,13 @@ git commit -m "Initial commit from IntelliJ"
 git branch -M main
 git push -u origin main
 
-git pull origin main
+git pull
 
 //불변객체에 패스워드 만들어볼까
 
 
 git add .
-git commit -m "feat: java mid1 - section3 immutable "
+git commit -m "feat: 노트북 로컬 변경사항 저장"
 git push
 
 한턴쉬고
