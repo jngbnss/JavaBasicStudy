@@ -1,12 +1,13 @@
-package javaMid1.nested.local;
+package javaMid1.nested.annonymous;
 
-public class LocalOuterV2 {
-    private int outInstanceVar = 3;
+import javaMid1.nested.local.Printer;
 
-    public void process(int paramVar) {
-        int localVar = 1;
+public class AnonymousOuter {
+    private int outInstanceVar =3 ;
+    public void process(int paramVar){
+        int localVar =1;
 
-        class LocalPrinter implements Printer {
+        Printer printer = new Printer(){
             int value = 0;
 
             @Override
@@ -16,13 +17,14 @@ public class LocalOuterV2 {
                 System.out.println("paramVar = " + paramVar);
                 System.out.println("outInstanceVar = " + outInstanceVar);
             }
-        }
-        LocalPrinter printer = new LocalPrinter();
+        };
         printer.print();
+        System.out.println("printer.getClass() = " + printer.getClass());
     }
 
     public static void main(String[] args) {
-        LocalOuterV2 localOuter = new LocalOuterV2();
-        localOuter.process(2);
+
+        AnonymousOuter main = new AnonymousOuter();
+        main.process(2);
     }
 }
