@@ -1,13 +1,12 @@
-package javaMid1.exception.example2;
+package javaMid1.exception.ex3;
 
 import java.util.Scanner;
+import javaMid1.exception.example2.NetworkClientExceptionV2;
+import javaMid1.exception.example2.NetworkServiceV2_5;
 
-public class MainV2 {
+public class MainV3 {
     public static void main(String[] args) throws NetworkClientExceptionV2 {
-//        NetworkServiceV2_1 networkService = new NetworkServiceV2_1();
-//        NetworkServiceV2_2 networkService = new NetworkServiceV2_2();
-//        NetworkServiceV2_3 networkService = new NetworkServiceV2_3();
-        NetworkServiceV2_5 networkService = new NetworkServiceV2_5();
+        NetworkServiceV3_1 networkService = new NetworkServiceV3_1();
         Scanner scanner = new Scanner(System.in);
         while(true){
             System.out.print("전송할 문자 : ");
