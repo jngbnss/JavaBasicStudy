@@ -11,7 +11,7 @@ git pull
 
 
 git add .
-git commit -m "feat: 예외 처리 2 - 실습/ 예외 처리 도입 1 - 시작"
+git commit -m "feat: 배열 문제"
 git push
 
 한턴쉬고
