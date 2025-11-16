@@ -11,8 +11,10 @@ git pull
 
 
 git add .
-git commit -m "feat: generic - 1"
+git commit -m "refactor: 불변객체 복습"
 git push
+
+feat: generic - 1
 
 한턴쉬고
 불변객체하자
