@@ -11,9 +11,10 @@ git pull
 
 
 git add .
-git commit -m "feat: generic 타입 매개변수 제한4"
+git commit -m "feat: String 복습 완료"
 git push
 
+generic 타입 매개변수 제한4
 feat: generic - 1
 
 한턴쉬고
