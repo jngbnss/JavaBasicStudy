@@ -1,6 +1,4 @@
-package javaMid2.collection.set;
-
-import java.util.Arrays;
+package javaMid2.collectionOld.set;
 
 public class MyHashSetV0Main {
     public static void main(String[] args) {
