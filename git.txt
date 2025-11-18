@@ -11,7 +11,7 @@ git pull
 
 
 git add .
-git commit -m "feat: arrayList"
+git commit -m "feat: 래퍼,클래스 복습"
 git push
 
 generic 타입 매개변수 제한4
