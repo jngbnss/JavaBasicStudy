@@ -11,7 +11,7 @@ git pull
 
 
 git add .
-git commit -m "feat: 연결 리스트"
+git commit -m "feat: 리스트"
 git push
 
 generic 타입 매개변수 제한4
