@@ -11,7 +11,7 @@ git pull
 
 
 git add .
-git commit -m "feat: iterator"
+git commit -m "feat: 내부클래스"
 git push
 
 generic 타입 매개변수 제한4
