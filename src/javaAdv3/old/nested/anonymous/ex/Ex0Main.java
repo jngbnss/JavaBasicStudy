@@ -1,4 +1,4 @@
-package javaAdv3.lambda.start;
+package javaAdv3.old.nested.anonymous.ex;
 
 public class Ex0Main {
     public static void helloJava(){
