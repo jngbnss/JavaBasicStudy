@@ -11,7 +11,7 @@ git pull
 
 
 git add .
-git commit -m "feat: 고급 3편 섹션2. 람다가 필요한 이유"
+git commit -m "feat: 고급 3편 섹션3. 람다 문제1"
 git push
 
 feat: 고급 2편 섹션7. I/O 기본1
